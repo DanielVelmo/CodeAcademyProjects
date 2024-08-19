@@ -1,4 +1,6 @@
+## This is a streamlit app
 ## To run the porgram enter in Terminal the: streamlit run /filepath
+
 import pandas as pd
 import numpy as np
 import streamlit as st
